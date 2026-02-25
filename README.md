@@ -29,6 +29,7 @@ Awesome Mac
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md)
 [![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](./README-ko.md)
+[![Vietnamese List](./vietnamese.svg)](./README-vi.md)
 <!--rehype:style=text-align: center;-->
 
 This project is now very large, and is very different from the original idea.
@@ -39,7 +40,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 **Explanation**
 
-[English](README.md) | [中文](README-zh.md) | [한국어](README-ko.md) | [Awesome Command Line Apps](./command-line-apps.md)
+[English](README.md) | [中文](README-zh.md) | [한국어](README-ko.md) | [Tiếng Việt](README-vi.md) | [Awesome Command Line Apps](./command-line-apps.md)
 
 ![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
